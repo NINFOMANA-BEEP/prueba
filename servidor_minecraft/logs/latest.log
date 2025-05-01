@@ -841,3 +841,6 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 19:38:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has reached the goal [Flowers of the Savanna]
 [01May2025 19:40:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement ['X' Marks the Spot]
 [01May2025 19:42:14.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Stone Age]
+[01May2025 20:26:40.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 20:26:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 20:26:40.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
