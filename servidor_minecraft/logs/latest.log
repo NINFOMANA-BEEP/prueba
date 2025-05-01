@@ -844,3 +844,58 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 20:26:40.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
 [01May2025 20:26:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
 [01May2025 20:26:40.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 20:30:21.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:44065] logged in with entity id 9171 at (11.5, 63.0, -40.5)
+[01May2025 20:30:21.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[01May2025 20:30:21.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ice and Fire]
+[01May2025 20:31:11.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: wapa
+[01May2025 20:31:17.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> tonto
+[01May2025 20:31:41.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement ['X' Marks the Spot]
+[01May2025 20:31:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: te ano mi niaña hermosa eres perfecta
+[01May2025 20:32:41.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:53037] logged in with entity id 9862 at (26.30000001192093, 57.0, -159.11210524236478)
+[01May2025 20:32:41.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 20:32:45.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> howi
+[01May2025 20:32:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> estoy en el pueblo
+[01May2025 20:32:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> de enfrente
+[01May2025 20:33:04.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2305, l='ServerLevel[world]', x=9.30, y=63.06, z=-206.70] died, message: 'Leatherworker was slain by Zombie'
+[01May2025 20:33:11.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/771, l='ServerLevel[world]', x=9.30, y=63.09, z=-206.70] died, message: 'Villager was slain by Zombie'
+[01May2025 20:33:13.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/766, l='ServerLevel[world]', x=9.30, y=63.06, z=-206.70] died, message: 'Leatherworker was slain by Zombie'
+[01May2025 20:33:15.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Made Ich1goM1rukuu a server operator]
+[01May2025 20:34:57.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 20:34:57.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 20:35:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> donde estas amor
+[01May2025 20:37:42.062] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6330aaf3[id=<null>,name=darkblader69,properties={},legacy=false] (/127.93.136.202:45555) lost connection: Disconnected
+[01May2025 20:38:21.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:45447] logged in with entity id 10909 at (27.695760615151855, 62.0, -165.7250715827546)
+[01May2025 20:38:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 20:38:28.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Spectator Mode]
+[01May2025 20:39:32.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Survival Mode]
+[01May2025 20:39:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[01May2025 20:39:48.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has completed the challenge [Great View From Up Here]
+[01May2025 20:39:59.182] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 20:39:59.183] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 20:40:42.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported Ich1goM1rukuu to darkblader69]
+[01May2025 20:40:48.463] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 20:40:48.465] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 20:40:54.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> aver
+[01May2025 20:41:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> tetas
+[01May2025 20:41:13.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> pero vamos no me jodas
+[01May2025 20:41:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> me gustas mucho
+[01May2025 20:41:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> ♥
+[01May2025 20:41:24.553] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 20:41:24.555] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 20:41:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darkblader69> yo tambien te anooooooooooo
+[01May2025 20:41:33.064] [Server thread/WARN] [tombstone/]: The death event of the player darkblader69 was canceled by another mod
+[01May2025 20:41:33.066] [Server thread/INFO] [tombstone/]: The player darkblader69 has successfully been saved
+[01May2025 20:41:42.165] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[01May2025 20:41:42.167] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[01May2025 20:42:11.866] [Server thread/WARN] [tombstone/]: The death event of the player Ich1goM1rukuu was canceled by another mod
+[01May2025 20:42:11.867] [Server thread/INFO] [tombstone/]: The player Ich1goM1rukuu has successfully been saved
+[01May2025 20:42:20.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by darkblader69
+[01May2025 20:42:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Your First Grave]
+[01May2025 20:42:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge of Death]
+[01May2025 20:42:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Funeral Theft]
+[01May2025 20:42:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Knowledge raises the soul]
+[01May2025 20:43:17.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[01May2025 20:43:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[01May2025 20:43:33.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 20:43:33.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 20:44:15.595] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25000aeb[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:40741) lost connection: Disconnected
