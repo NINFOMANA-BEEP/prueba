@@ -899,3 +899,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 20:43:33.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
 [01May2025 20:43:33.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
 [01May2025 20:44:15.595] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25000aeb[id=<null>,name=Ich1goM1rukuu,properties={},legacy=false] (/127.212.133.0:40741) lost connection: Disconnected
+[01May2025 20:48:47.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:51705] logged in with entity id 11903 at (26.69999998807907, 61.0, -165.69999998807907)
+[01May2025 20:48:47.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[01May2025 20:49:13.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[01May2025 20:49:13.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game

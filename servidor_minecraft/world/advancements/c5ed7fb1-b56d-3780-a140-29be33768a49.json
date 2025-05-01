@@ -3733,12 +3733,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-01 20:42:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-01 20:42:23 +0000"
@@ -3756,12 +3750,6 @@
       "has_gold_ingot": "2025-05-01 20:42:23 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-05-01 20:43:27 +0000"
-    },
-    "done": false
   },
   "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
     "criteria": {
@@ -3870,6 +3858,18 @@
       "has_beef": "2025-05-01 20:42:23 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 20:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-01 20:43:27 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
