@@ -181,9 +181,3461 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-01 19:34:36 +0000",
+      "minecraft:forest": "2025-05-01 19:41:42 +0000",
       "minecraft:savanna": "2025-05-01 18:12:47 +0000"
     },
     "done": false
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/ender_pearl_block": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/destruction_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/magnifying_glass": {
+    "criteria": {
+      "has_s": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/gold_angel_ring": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/cherry_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/sunglasses": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/giant_stick": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-01 19:38:54 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/lime_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-01 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/etheric_sword": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/infused_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/emerald_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/flatcap": {
+    "criteria": {
+      "has_white_carpet": "2025-05-01 19:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/gold_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/magenta_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/stone_drum": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/dark_glass": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-05-01 19:42:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/head_band_blank": {
+    "criteria": {
+      "has_paper": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/peacock_angel_ring": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-05-01 19:40:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/golden_lasso": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/the_final_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/birthday_hat_alt": {
+    "criteria": {
+      "has_paper": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/blursed_earth": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 19:37:17 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2025-05-01 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/precision_shears": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack8x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack6x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack7x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/crimson_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack4x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack5x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-05-01 19:40:18 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/speed_upgrade": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 19:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack2x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack3x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unpack1x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/ethereal_glass": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/tropical_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/white_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/glowing_glass": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/cyan_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/kikoku": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/ender_lily_seeds": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/brown_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/reversing_hoe": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-01 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/peach_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-01 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/diamond_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-01 19:38:54 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/yellow_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/mechanical_miner": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/reinforced_large_drum": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/healing_axe": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/jungle_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-01 19:38:54 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_drum": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-05-01 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-01 19:44:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/regular_to_reverse": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/smelting/ender_ore": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/redstone_clock": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_ingot": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-01 19:44:04 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/bat_angel_ring": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/feather_angel_ring": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/green_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_spikes_smithing": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/lapis_lamp": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/iron_drum": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-05-01 19:38:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/nether_star_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/cursed_earth": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/dark_reverse_ethereal_glass": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/spruce_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-01 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/ender_dust_to_ender_pearl": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-01 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/reverse_to_regular": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/magical_egg": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_diamond": {
+    "criteria": {
+      "has_rod": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/acacia_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/blessed_earth": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 19:34:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-01 19:40:16 +0000"
+    },
+    "done": false
+  },
+  "fairyfactions:recipes/decorations/cherry_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_storage": {
+    "criteria": {
+      "has_l": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/strawberry_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/orange_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/chorus_tile": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/ender_tile": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_brown_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/netherite_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/pink_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-01 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/light_gray_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_gold": {
+    "criteria": {
+      "has_rod": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/angel_block": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chiseled_printer": {
+    "criteria": {
+      "has_l": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/misc/fairy_wand": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/angel_ring": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/iron_spikes": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_gift_costume": {
+    "criteria": {
+      "has_paper": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-01 19:40:18 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_cyan_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/mechanical_placer": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-01 19:40:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:root": {
+    "criteria": {
+      "crafting_table": "2025-05-01 19:38:02 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/blue_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "yuushya:recipes/bismuth_crystal": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/unstable_block": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/ender_dragon_angel_ring": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_yellow_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/lunar_panel": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/flame_lily_to_blaze_powder": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/birch_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/redstone_glass": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/purple_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/modification_table": {
+    "criteria": {
+      "has_b": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/erosion_shovel": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/sea_foam_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-05-01 19:41:59 +0000"
+    },
+    "done": false
+  },
+  "miniutilities:recipes/misc/experience_pearl_2x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_1x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_4x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/quantum_quarry": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_3x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_6x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_5x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/wooden_spikes": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_8x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/experience_pearl_7x": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/building_blocks/fusion_furnace": {
+    "criteria": {
+      "has_item": "2025-05-01 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/dark_reverse_to_dark_regular": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-01 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-01 19:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/gold_spikes": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-01 19:41:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_magenta_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/cherry_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_light_blue_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/dark_regular_to_dark_reverse": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-01 19:44:04 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/chorus_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/dark_ethereal_glass": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/solar_panel_controller": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/red_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/wrench": {
+    "criteria": {
+      "has_p": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/jungle_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/diamond_spikes": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_red_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_iron": {
+    "criteria": {
+      "has_rod": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/black_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/netherite_reinforced_drum": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/light_blue_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/spruce_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/infused_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_orange_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/warped_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/iron_opinium_core": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_bag": {
+    "criteria": {
+      "has_w": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-01 19:44:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/solar_panel": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/infused_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-01 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_lime_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/acacia_light_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_black_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_gray_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/dark_oak_white_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/infused_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/mangrove_pink_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/oak_purple_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_stone": {
+    "criteria": {
+      "has_rod": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "miniutilities:recipes/misc/gray_lapis_caelestis": {
+    "criteria": {
+      "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-01 19:38:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-05-01 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:37:59 +0000"
+    },
+    "done": true
+  },
+  "fairyfactions:recipes/decorations/birch_green_fairy_bed": {
+    "criteria": {
+      "has_log": "2025-05-01 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-05-01 19:38:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
