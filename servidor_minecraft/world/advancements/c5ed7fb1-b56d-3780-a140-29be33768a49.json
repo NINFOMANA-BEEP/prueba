@@ -427,6 +427,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
+    "criteria": {
+      "has_grass": "2025-05-01 19:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-01 19:38:56 +0000"
@@ -538,6 +544,12 @@
   "miniutilities:recipes/misc/magenta_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
+    "criteria": {
+      "has_chest": "2025-05-01 19:49:37 +0000"
     },
     "done": true
   },
@@ -1390,6 +1402,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-01 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-05-01 19:44:55 +0000"
     },
     "done": true
   },
@@ -2323,6 +2341,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
+    "criteria": {
+      "has_chest": "2025-05-01 19:49:37 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/chorus_tile": {
     "criteria": {
       "has_item": "2025-05-01 19:42:14 +0000"
@@ -2428,6 +2452,12 @@
   "miniutilities:recipes/misc/pink_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-01 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-05-01 19:49:37 +0000"
     },
     "done": true
   },
