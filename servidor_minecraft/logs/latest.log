@@ -1438,3 +1438,4 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 11:19:25.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Who You Gonna Call?]
 [02May2025 11:24:06.809] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_magical (biomesoplenty:jade_cliffs) took 167 ms
 [02May2025 11:24:24.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Teleported Ich1goM1rukuu to 280.500000, 88.000000, 1810.500000]
+[02May2025 11:39:11.474] [Server thread/WARN] [Easy Mob Farm/]: Mob farm block entity at BlockPos{x=26, y=62, z=-162} is full and can't process results
