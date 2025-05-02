@@ -182,8 +182,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-01 19:34:36 +0000",
+      "minecraft:river": "2025-05-02 08:29:27 +0000",
       "minecraft:forest": "2025-05-01 19:41:42 +0000",
-      "minecraft:savanna": "2025-05-01 18:12:47 +0000"
+      "minecraft:savanna": "2025-05-01 18:12:47 +0000",
+      "minecraft:plains": "2025-05-02 08:29:46 +0000"
     },
     "done": false
   },
@@ -2823,7 +2825,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "woodland": "2025-05-01 19:41:59 +0000"
+      "woodland": "2025-05-01 19:41:59 +0000",
+      "old_growth_woodland": "2025-05-02 08:30:19 +0000"
     },
     "done": false
   },
@@ -3871,9 +3874,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 08:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-02 08:31:11 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -3949,9 +3970,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4045,6 +4084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -4075,6 +4120,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 08:05:33 +0000"
@@ -4084,6 +4135,18 @@
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-02 08:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-02 08:30:29 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
     },
     "done": true
   },
@@ -4108,6 +4171,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-02 08:04:35 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4165,6 +4234,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-02 08:11:26 +0000"
@@ -4189,6 +4270,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-02 08:31:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-02 08:30:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -4204,6 +4297,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4228,6 +4327,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-02 08:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
     },
     "done": true
   },
@@ -4258,6 +4369,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4327,6 +4444,13 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-05-02 08:30:21 +0000",
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
@@ -4363,6 +4487,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
       "has_material": "2025-05-02 08:04:14 +0000"
@@ -4396,6 +4526,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 08:28:22 +0000"
     },
     "done": true
   },
@@ -4483,6 +4619,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 08:04:10 +0000"
@@ -4495,6 +4637,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -4504,6 +4652,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/vanilla_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 08:31:01 +0000"
     },
     "done": true
   },
@@ -4567,9 +4721,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4585,6 +4751,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 08:05:33 +0000"
@@ -4597,15 +4769,39 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-05-02 08:31:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 08:05:33 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 08:28:22 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/divine_retribution": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
     },
     "done": true
   },
@@ -4636,6 +4832,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4672,6 +4874,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4729,6 +4937,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:31:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -4762,6 +4976,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4801,6 +5021,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
@@ -4822,6 +5048,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4861,6 +5093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 08:29:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -4879,6 +5117,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-05-02 08:11:28 +0000"
@@ -4888,6 +5132,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 08:31:43 +0000"
     },
     "done": true
   },
@@ -4930,6 +5180,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -4981,6 +5237,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 08:25:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
@@ -4996,6 +5264,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -5041,9 +5321,27 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/food/chocolate_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 08:31:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 08:29:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
     },
     "done": true
   },
@@ -5101,6 +5399,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-05-02 08:11:28 +0000"
@@ -5110,6 +5420,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 08:31:43 +0000"
     },
     "done": true
   },
@@ -5143,9 +5459,27 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/swamp_farm": {
+    "criteria": {
+      "has_oak_log": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -5161,9 +5495,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2025-05-02 08:04:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -5185,6 +5531,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-05-02 08:11:28 +0000"
@@ -5197,6 +5549,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -5206,6 +5570,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -5233,9 +5603,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 08:31:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-05-02 08:30:59 +0000"
     },
     "done": true
   },
@@ -5260,6 +5648,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-02 08:31:11 +0000"
     },
     "done": true
   },
@@ -5317,6 +5711,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-05-02 08:05:33 +0000"
@@ -5326,6 +5726,18 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/strawberry_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 08:31:01 +0000"
     },
     "done": true
   },
@@ -5356,6 +5768,18 @@
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-02 08:29:58 +0000"
     },
     "done": true
   },
@@ -5401,6 +5825,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 08:05:33 +0000"
@@ -5410,6 +5840,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/bee_hive_farm": {
+    "criteria": {
+      "has_oak_log": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -5446,6 +5882,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
@@ -5497,6 +5939,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-02 08:30:21 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -5527,9 +5975,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-02 08:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 08:25:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-02 08:11:26 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-05-02 08:30:21 +0000"
     },
     "done": true
   },
