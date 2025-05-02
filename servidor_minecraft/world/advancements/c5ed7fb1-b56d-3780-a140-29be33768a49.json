@@ -8702,6 +8702,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/bioluminescent_torch": {
+    "criteria": {
+      "bioluminescent_torch": "2025-05-02 10:22:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-05-02 10:10:52 +0000"
@@ -8711,6 +8717,12 @@
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-05-02 09:55:22 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
     },
     "done": true
   },
@@ -8732,6 +8744,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/blackstone": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-02 09:51:57 +0000"
@@ -8744,9 +8834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
     },
     "done": true
   },
@@ -8768,15 +8870,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-02 10:36:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-05-02 09:54:36 +0000"
     },
     "done": true
   },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-05-02 10:21:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 10:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "fusion:recipes/misc/sinisite_rod": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-02 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
     },
     "done": true
   },
@@ -8792,9 +8954,63 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "fusion:thyrium_bow": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-02 10:36:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
     },
     "done": true
   },
@@ -8804,9 +9020,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-02 10:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
     },
     "done": true
   },
@@ -8828,6 +9122,78 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-02 09:52:28 +0000"
@@ -8840,9 +9206,51 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
     },
     "done": true
   },
@@ -8864,6 +9272,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-05-02 10:10:52 +0000"
@@ -8882,9 +9296,33 @@
     },
     "done": true
   },
+  "fusion:recipes/misc/thyrium_rod": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-02 09:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-02 10:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
     },
     "done": true
   },
@@ -8894,9 +9332,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-02 10:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
     },
     "done": true
   },
@@ -8906,9 +9356,111 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:15:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-05-02 09:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
     },
     "done": true
   },
@@ -8924,6 +9476,24 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
+    },
+    "done": true
+  },
+  "fusion:sinisite_bow": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-05-02 10:00:36 +0000"
@@ -8936,9 +9506,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:01 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 09:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
     },
     "done": true
   },
@@ -8954,6 +9542,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-02 09:55:22 +0000"
@@ -8963,6 +9557,18 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_cherry_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-02 10:30:22 +0000"
     },
     "done": true
   },

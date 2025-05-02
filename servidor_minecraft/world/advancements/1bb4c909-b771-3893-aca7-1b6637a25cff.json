@@ -1885,6 +1885,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/bioluminescent_torch": {
+    "criteria": {
+      "bioluminescent_torch": "2025-05-02 10:21:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 09:49:53 +0000"
@@ -2269,6 +2275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-02 10:30:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
     "criteria": {
       "has_acacia_planks": "2025-05-02 09:36:13 +0000"
@@ -2419,6 +2431,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-05-02 10:20:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-02 09:36:15 +0000"
@@ -2488,6 +2506,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-02 09:36:43 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/collect_bits": {
+    "criteria": {
+      "bit_bag": "2025-05-02 10:17:32 +0000"
     },
     "done": true
   },
@@ -2632,6 +2656,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-05-02 09:36:13 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 10:19:40 +0000"
     },
     "done": true
   },
@@ -2797,6 +2827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-02 10:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-05-02 09:52:39 +0000"
@@ -2848,6 +2884,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-02 09:36:15 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-05-02 10:19:40 +0000"
     },
     "done": true
   },
@@ -3457,6 +3499,12 @@
     },
     "done": true
   },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2025-05-02 10:16:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2025-05-02 09:36:13 +0000"
@@ -3616,6 +3664,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_acacia_planks": "2025-05-02 09:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-02 10:30:21 +0000"
     },
     "done": true
   },
