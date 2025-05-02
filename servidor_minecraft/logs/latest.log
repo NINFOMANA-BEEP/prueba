@@ -1056,3 +1056,16 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 09:45:56.522] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: setRulerName: 5b9a65c7-cc07-404f-816d-e92b288b66d3 = Ich1goM1rukuu
 [02May2025 09:45:56.573] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: setRulerName: 5b9a65c7-cc07-404f-816d-e92b288b66d3 = Ich1goM1rukuu
 [02May2025 09:45:56.573] [Server thread/INFO] [net.heyimamethyst.fairyfactions.FairyFactions/]: setRulerName: 5b9a65c7-cc07-404f-816d-e92b288b66d3 = Ich1goM1rukuu
+[02May2025 09:48:00.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[02May2025 09:48:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[02May2025 09:48:25.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Creative Mode]
+[02May2025 09:50:15.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:42445] logged in with entity id 31230 at (26.276695850140772, 63.0, -170.94570614622674)
+[02May2025 09:50:15.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[02May2025 09:51:40.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Hot Stuff]
+[02May2025 09:51:53.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [A Flaming Sword]
+[02May2025 09:52:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Draconic Evolution]
+[02May2025 09:52:28.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/749, l='ServerLevel[world]', x=9.30, y=63.08, z=-206.70] died, message: 'Villager was slain by Ich1goM1rukuu'
+[02May2025 09:52:28.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Knowledge of Death]
+[02May2025 09:52:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Neighborhood Brawl]
+[02May2025 09:55:22.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Ice Bucket Challenge]
+[02May2025 09:55:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
