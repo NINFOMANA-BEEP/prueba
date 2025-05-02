@@ -14755,3 +14755,19 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 10:04:07.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the weather to clear]
 [02May2025 10:04:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Isn't It Iron Pick]
 [02May2025 10:05:37.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Creative Mode]
+[02May2025 10:07:17.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 10:07:17.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 10:09:30.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from darkblader69: Location (27.901665046811104, 64.49023702740669, -168.49225115776062) too far away from hit block BlockPos{x=28, y=64, z=-170}.
+[02May2025 10:09:42.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from darkblader69: Location (32.61059957742691, 64.28976833820343, -172.0) too far away from hit block BlockPos{x=32, y=63, z=-174}.
+[02May2025 10:09:42.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from darkblader69: Location (32.61059957742691, 64.28976833820343, -172.0) too far away from hit block BlockPos{x=32, y=63, z=-174}.
+[02May2025 10:09:43.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Ich1goM1rukuu: Location (33.03125, 64.24883997440338, -174.63502025604248) too far away from hit block BlockPos{x=32, y=63, z=-174}.
+[02May2025 10:10:01.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Ich1goM1rukuu: Location (27.9375, 65.12015044689178, -173.24948865175247) too far away from hit block BlockPos{x=26, y=64, z=-174}.
+[02May2025 10:10:01.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Ich1goM1rukuu: Location (27.9375, 65.12015044689178, -173.24948865175247) too far away from hit block BlockPos{x=26, y=64, z=-174}.
+[02May2025 10:10:04.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Ich1goM1rukuu: Location (26.858997106552124, 64.50876605510712, -172.0) too far away from hit block BlockPos{x=26, y=64, z=-174}.
+[02May2025 10:10:04.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Ich1goM1rukuu: Location (26.858997106552124, 64.50876605510712, -172.0) too far away from hit block BlockPos{x=26, y=64, z=-174}.
+[02May2025 10:10:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has completed the challenge [Chisels & Bits!]
+[02May2025 10:11:04.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Survival Mode]
+[02May2025 10:12:17.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 10:12:17.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 10:13:55.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[02May2025 10:16:31.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has completed the challenge [Chisels & Bits!]

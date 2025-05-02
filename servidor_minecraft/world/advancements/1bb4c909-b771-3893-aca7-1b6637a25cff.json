@@ -1897,9 +1897,27 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/food/yellow_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:12:05 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/magnifying_glass": {
     "criteria": {
       "has_s": "2025-05-02 09:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
     },
     "done": true
   },
@@ -1993,6 +2011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-02 09:52:39 +0000"
@@ -2062,6 +2086,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_glowstone_dust": "2025-05-02 09:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
     },
     "done": true
   },
@@ -2209,6 +2239,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 10:02:35 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/unstable_leggings": {
     "criteria": {
       "has_item": "2025-05-02 09:36:43 +0000"
@@ -2341,6 +2377,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 09:49:53 +0000"
@@ -2449,6 +2497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-02 10:04:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-02 09:36:13 +0000"
@@ -2458,6 +2512,12 @@
   "miniutilities:recipes/misc/white_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 09:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 10:04:21 +0000"
     },
     "done": true
   },
@@ -2665,6 +2725,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/yellow_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 09:36:43 +0000"
@@ -2674,6 +2740,18 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 09:49:53 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/orange_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
     },
     "done": true
   },
@@ -2905,6 +2983,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 10:10:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-02 09:36:15 +0000"
@@ -2995,6 +3079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 10:02:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2025-05-02 09:36:13 +0000"
@@ -3022,6 +3112,18 @@
   "miniutilities:recipes/misc/green_lapis_caelestis": {
     "criteria": {
       "has_item": "2025-05-02 09:36:43 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/cyan_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
     },
     "done": true
   },
@@ -3169,6 +3271,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/purple_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:12:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-02 09:52:28 +0000"
@@ -3307,6 +3421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
   "miniutilities:recipes/misc/ender_tile": {
     "criteria": {
       "has_item": "2025-05-02 09:36:43 +0000"
@@ -3433,6 +3553,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
   "fairyfactions:recipes/misc/fairy_wand": {
     "criteria": {
       "has_stick": "2025-05-02 09:36:15 +0000"
@@ -3493,6 +3619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-02 09:53:09 +0000"
@@ -3502,6 +3634,18 @@
   "doggytalents:recipes/decorations/leather_jacket": {
     "criteria": {
       "has_leather": "2025-05-02 09:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 10:02:35 +0000"
     },
     "done": true
   },
@@ -3769,6 +3913,12 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/food/pink_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:10:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-02 09:52:39 +0000"
@@ -3979,6 +4129,12 @@
     },
     "done": true
   },
+  "mysticsbiomes:recipes/food/lime_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 10:12:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-02 09:52:39 +0000"
@@ -4039,6 +4195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-02 10:04:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-02 09:52:39 +0000"
@@ -4096,6 +4258,12 @@
   "doggytalents:recipes/building_blocks/dog_bed_def": {
     "criteria": {
       "has_wool": "2025-05-02 09:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-02 10:02:28 +0000"
     },
     "done": true
   },
