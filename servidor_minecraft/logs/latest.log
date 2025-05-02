@@ -1434,3 +1434,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 11:15:03.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu moved too quickly! 9.487685289970841,-0.09970794995652454,-3.8743641546250274
 [02May2025 11:16:38.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
 [02May2025 11:16:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[02May2025 11:17:28.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Suit Up]
+[02May2025 11:19:25.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Who You Gonna Call?]
+[02May2025 11:24:06.809] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_magical (biomesoplenty:jade_cliffs) took 167 ms
+[02May2025 11:24:24.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Teleported Ich1goM1rukuu to 280.500000, 88.000000, 1810.500000]
