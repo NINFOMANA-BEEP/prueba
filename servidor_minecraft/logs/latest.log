@@ -1953,3 +1953,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 12:19:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Ah, you scared me!]
 [02May2025 12:23:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set the time to 1000]
 [02May2025 12:24:25.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set the weather to clear]
+[02May2025 12:33:00.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set the time to 13000]
+[02May2025 12:33:03.825] [Server thread/ERROR] [doggytalents/dogOnlineTracker/]: Dog [ Dog ] failed to update location upon going offline at [ -2336, 110, 1317 ] with type [ UNLOADED_WITH_PLAYER ]
+[02May2025 12:33:47.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[02May2025 12:33:47.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
