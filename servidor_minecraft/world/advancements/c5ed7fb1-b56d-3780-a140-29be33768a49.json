@@ -182,12 +182,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-02 09:23:16 +0000",
+      "minecraft:deep_ocean": "2025-05-02 11:06:10 +0000",
       "minecraft:cherry_grove": "2025-05-02 08:56:56 +0000",
       "minecraft:birch_forest": "2025-05-02 08:54:03 +0000",
       "minecraft:beach": "2025-05-01 19:34:36 +0000",
       "minecraft:river": "2025-05-02 08:29:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 11:00:16 +0000",
       "minecraft:stony_shore": "2025-05-02 08:32:36 +0000",
       "minecraft:forest": "2025-05-01 19:41:42 +0000",
+      "minecraft:ocean": "2025-05-02 11:06:47 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-02 11:01:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 08:54:02 +0000",
       "minecraft:savanna": "2025-05-01 18:12:47 +0000",
       "minecraft:plains": "2025-05-02 08:29:46 +0000"
@@ -2842,6 +2846,8 @@
       "aspen_glade": "2025-05-02 08:59:26 +0000",
       "seasonal_forest": "2025-05-02 08:59:35 +0000",
       "volcano": "2025-05-02 08:43:57 +0000",
+      "grassland": "2025-05-02 11:07:33 +0000",
+      "tropics": "2025-05-02 11:05:45 +0000",
       "rainforest": "2025-05-02 08:39:15 +0000"
     },
     "done": false
@@ -8720,6 +8726,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/fedora": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 11:06:33 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/bowtie": {
     "criteria": {
       "has_string": "2025-05-02 10:30:19 +0000"
@@ -8786,6 +8798,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 11:05:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_planks": "2025-05-02 10:15:59 +0000"
@@ -8840,6 +8858,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/deer_antlers": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 11:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-05-02 10:10:52 +0000"
@@ -8861,6 +8885,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 11:06:31 +0000"
     },
     "done": true
   },
@@ -8900,6 +8930,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/bunny_ears": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 11:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-05-02 10:30:19 +0000"
@@ -8933,6 +8969,12 @@
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_planks": "2025-05-02 10:16:00 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/demon_horns": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 11:06:33 +0000"
     },
     "done": true
   },
@@ -9032,6 +9074,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-02 11:00:44 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/kitsune_mask": {
     "criteria": {
       "has_string": "2025-05-02 10:30:19 +0000"
@@ -9086,6 +9134,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 11:06:31 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_ko": {
     "criteria": {
       "has_string": "2025-05-02 10:30:19 +0000"
@@ -9095,6 +9149,12 @@
   "doggytalents:recipes/decorations/locator_orb_gi": {
     "criteria": {
       "has_string": "2025-05-02 10:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 11:06:31 +0000"
     },
     "done": true
   },
@@ -9236,6 +9296,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 11:00:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2025-05-02 10:16:01 +0000"
@@ -9260,9 +9326,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 11:05:52 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:chiselsandbits/root": {
     "criteria": {
       "chisel": "2025-05-02 10:10:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 11:06:31 +0000"
     },
     "done": true
   },
@@ -9362,6 +9440,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/chef_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-02 11:06:33 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/guard_suit": {
     "criteria": {
       "has_string": "2025-05-02 10:30:19 +0000"
@@ -9392,6 +9476,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-02 11:00:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-02 10:15:59 +0000"
@@ -9419,6 +9509,12 @@
   "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
     "criteria": {
       "has_quartz": "2025-05-02 10:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 11:06:31 +0000"
     },
     "done": true
   },
@@ -9533,6 +9629,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-02 10:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 11:06:31 +0000"
     },
     "done": true
   },
