@@ -868,3 +868,10 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 09:06:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Would you Like to Know More?]
 [02May2025 09:07:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Book of Monsters]
 [02May2025 09:07:39.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/20583, l='ServerLevel[world]', x=218.91, y=65.85, z=-1936.19] died, message: 'Armorer burned to death'
+[02May2025 09:16:59.631] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/739, l='ServerLevel[world]', x=16.70, y=63.08, z=-190.30] died, message: 'Villager was slain by Zombie'
+[02May2025 09:18:22.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20519, l='ServerLevel[world]', x=159.30, y=62.94, z=-1998.06] died, message: 'Villager was slain by Zombie'
+[02May2025 09:18:30.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[02May2025 09:18:41.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20592, l='ServerLevel[world]', x=160.15, y=72.00, z=-1944.15] died, message: 'Villager was slain by Zombie'
+[02May2025 09:20:17.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20551, l='ServerLevel[world]', x=160.15, y=72.00, z=-1944.15] died, message: 'Villager was slain by Zombie'
+[02May2025 09:21:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Rotten to the Core]
+[02May2025 09:22:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Isn't It Iron Pick]
