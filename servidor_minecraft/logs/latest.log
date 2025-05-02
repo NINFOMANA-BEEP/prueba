@@ -829,3 +829,9 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 08:00:27.616] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [02May2025 08:00:27.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.93.136.202:46529] logged in with entity id 803 at (26.30000001192093, 62.0, -166.69999998807907)
 [02May2025 08:00:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[02May2025 08:09:58.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:57563] logged in with entity id 2637 at (89.84126979627158, 64.0, -175.31979486115782)
+[02May2025 08:09:58.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[02May2025 08:10:02.911] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=301, y=-54, z=-308}
+[02May2025 08:10:02.912] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=302, y=-54, z=-308}
+[02May2025 08:11:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Here They Come]
+[02May2025 08:11:28.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Acquire Hardware]
