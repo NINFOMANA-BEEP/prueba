@@ -855,3 +855,12 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 08:42:50.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Monster Hunter]
 [02May2025 08:43:09.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3520ms or 70 ticks behind
 [02May2025 08:43:56.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4786ms or 95 ticks behind
+[02May2025 08:47:09.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=704, y=122, z=-958} BlockPos{x=704, y=121, z=-957}
+[02May2025 08:47:20.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:54705] logged in with entity id 11819 at (27.76249998807907, 62.0, -165.63241809132697)
+[02May2025 08:47:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[02May2025 08:47:57.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Getting an Upgrade]
+[02May2025 08:50:19.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=106, z=-1064} BlockPos{x=582, y=104, z=-1063}
+[02May2025 08:50:19.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=106, z=-1064} BlockPos{x=582, y=104, z=-1063}
+[02May2025 08:53:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[02May2025 09:00:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Who You Gonna Call?]
+[02May2025 09:03:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
