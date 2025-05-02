@@ -19657,3 +19657,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 12:33:47.684] [Server thread/DEBUG] [doggytalents/dogOnlineTracker/]: Dog [ Dog ] has gone Offline at [ -2338, 109, 1322 ] with type [ UNLOADED_TO_CHUNK ]
 [02May2025 12:37:25.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 12:37:25.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 12:42:25.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 12:42:25.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 12:47:25.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 12:47:25.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
