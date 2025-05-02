@@ -835,3 +835,5 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 08:10:02.912] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=302, y=-54, z=-308}
 [02May2025 08:11:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has reached the goal [Here They Come]
 [02May2025 08:11:28.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Acquire Hardware]
+[02May2025 08:22:06.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[02May2025 08:22:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
