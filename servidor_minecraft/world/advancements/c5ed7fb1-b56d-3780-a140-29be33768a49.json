@@ -181,6 +181,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-02 09:23:16 +0000",
       "minecraft:cherry_grove": "2025-05-02 08:56:56 +0000",
       "minecraft:birch_forest": "2025-05-02 08:54:03 +0000",
       "minecraft:beach": "2025-05-01 19:34:36 +0000",
@@ -3886,6 +3887,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-02 08:36:09 +0000",
+      "pumpkin_pie": "2025-05-02 09:23:50 +0000",
       "mutton": "2025-05-02 08:32:12 +0000",
       "bread": "2025-05-01 20:43:27 +0000"
     },
@@ -4617,6 +4619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 09:26:08 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-05-02 08:30:21 +0000"
@@ -4942,6 +4950,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 09:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
@@ -5114,6 +5128,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 09:26:08 +0000"
     },
     "done": true
   },
@@ -5615,6 +5635,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/sword_enhancement": {
+    "criteria": {
+      "has_iron_sword": "2025-05-02 09:22:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 08:33:05 +0000"
@@ -5717,6 +5743,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 09:26:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-02 08:33:08 +0000"
@@ -5807,6 +5839,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 09:26:08 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-05-02 08:30:21 +0000"
@@ -5834,6 +5872,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 09:26:08 +0000"
     },
     "done": true
   },
@@ -6309,6 +6353,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-02 09:26:08 +0000"
     },
     "done": true
   },

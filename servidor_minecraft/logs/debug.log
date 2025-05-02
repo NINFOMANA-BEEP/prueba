@@ -14192,3 +14192,17 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 09:22:17.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 09:22:17.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02May2025 09:22:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Isn't It Iron Pick]
+[02May2025 09:26:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Creative Mode]
+[02May2025 09:26:25.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Survival Mode]
+[02May2025 09:27:17.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 09:27:17.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 09:32:08.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ich1goM1rukuu> TETAS GORDAS
+[02May2025 09:32:17.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 09:32:17.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 09:33:15.197] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[02May2025 09:33:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Gave 10 [Sand] to darkblader69]
+[02May2025 09:35:09.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Mob Farm Basics: Tier 0]
+[02May2025 09:35:13.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[02May2025 09:35:27.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/746, l='ServerLevel[world]', x=-20.30, y=65.00, z=-197.70] died, message: 'Farmer was slain by Zombie'
+[02May2025 09:35:28.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Mob Farm Setup: Tier 1]
+[02May2025 09:35:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Advanced Setup: Tier 2]
