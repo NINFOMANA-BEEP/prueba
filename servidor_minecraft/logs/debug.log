@@ -14153,3 +14153,31 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 09:03:56.002] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-5 | 37 | -1883)
 [02May2025 09:03:56.002] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-15 | 1 | -1884)
 [02May2025 09:03:56.003] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-15 | 1 | -1884)
+[02May2025 09:06:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Disme A Dozen]
+[02May2025 09:06:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Would you Like to Know More?]
+[02May2025 09:07:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Book of Monsters]
+[02May2025 09:07:17.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 09:07:17.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 09:07:39.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/20583, l='ServerLevel[world]', x=218.91, y=65.85, z=-1936.19] died, message: 'Armorer burned to death'
+[02May2025 09:08:34.708] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (74 | 1 | -1840)
+[02May2025 09:08:34.708] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (74 | 1 | -1840)
+[02May2025 09:08:34.721] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (74 | 1 | -1840)
+[02May2025 09:08:34.721] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (74 | 1 | -1840)
+[02May2025 09:08:34.745] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (38 | 18 | -1840)
+[02May2025 09:08:34.745] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (38 | 18 | -1840)
+[02May2025 09:08:34.745] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (47 | 9 | -1840)
+[02May2025 09:08:34.745] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (47 | 9 | -1840)
+[02May2025 09:08:34.745] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (47 | 9 | -1840)
+[02May2025 09:08:34.745] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (47 | 9 | -1840)
+[02May2025 09:08:34.756] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (11 | 19 | -1840)
+[02May2025 09:08:34.756] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (11 | 19 | -1840)
+[02May2025 09:08:34.763] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (38 | 18 | -1840)
+[02May2025 09:08:34.763] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (38 | 18 | -1840)
+[02May2025 09:08:34.763] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (47 | 9 | -1840)
+[02May2025 09:08:34.763] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (47 | 9 | -1840)
+[02May2025 09:08:34.763] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (47 | 9 | -1840)
+[02May2025 09:08:34.763] [Worker-Main-49/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (47 | 9 | -1840)
+[02May2025 09:08:34.858] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (11 | 19 | -1840)
+[02May2025 09:08:34.858] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (11 | 19 | -1840)
+[02May2025 09:12:17.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 09:12:17.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

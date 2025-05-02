@@ -864,3 +864,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02May2025 08:53:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
 [02May2025 09:00:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Who You Gonna Call?]
 [02May2025 09:03:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
+[02May2025 09:06:12.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Disme A Dozen]
+[02May2025 09:06:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Would you Like to Know More?]
+[02May2025 09:07:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 has made the advancement [Book of Monsters]
+[02May2025 09:07:39.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/20583, l='ServerLevel[world]', x=218.91, y=65.85, z=-1936.19] died, message: 'Armorer burned to death'
